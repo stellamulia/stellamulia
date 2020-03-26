@@ -1,4 +1,4 @@
-From,To,Slope,Y_Intercept,Edge_number,Traffic_Flow_Rush_Hour,Leg
+From,To,Slope,Y_Intercept,Edge_number,Traffic_Flow_Rush_Hour,Leg,Passer_by
 Spijkenisse,S11,2.81E-04,2.73,1,6200,A15
 S11,S1,3.62E-04,2.39,2,8200,A4
 Vlaardingen,S1,3.64E-04,0.20,3,4300,A20
