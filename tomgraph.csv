@@ -1,85 +1,85 @@
-From,To,Slope,Y_Intercept,Edge_number,Traffic_Flow_Rush_Hour,Leg,Passer_by
-Spijkenisse,S11,2.81E-04,2.73,1,6200,A15,
-S11,S1,3.62E-04,2.39,2,8200,A4,
-Vlaardingen,S1,3.64E-04,0.20,3,4300,A20,
-S1,Delft,5.75E-04,2.40,4,6200,A4,
-S1,Rotterdam,4.82E-04,4.51,5,6200,A20,
-Rotterdam,Delft,7.57E-04,1.63,6,6300,A13,
-Rotterdam,Gouda,5.63E-03,-4.74,7,4300,A20,
-Dordrecht,Rotterdam,8.88E-04,9.30,8,6200,A15,
-Dordrecht,Utrecht,2.25E-03,6.22,9,4300,A15,
-S8,Utrecht,1.30E-02,-10.12,10,4300,A27,
-Delft,Den Haag,8.19E-04,3.88,11,8200,A4,
-Delft,Den Haag,8.64E-04,1.60,12,6200,A13,
-Den Haag,Zoetermeer,2.26E-03,7.58,13,6200,A12,
-Den Haag,Leiden,8.81E-04,5.74,14,6200,A4,
-Zoetermeer,Leiden,5.12E-03,-1.95,15,1900,N206,
-Gouda,Zoetermeer,8.40E-04,2.92,16,6200,A12,
-Gouda,S7,4.04E-04,2.90,17,8200,A12,
-Alphen aan de Rijn,Gouda,3.80E-03,2.48,18,1900,N207,
-Alphen aan de Rijn,Leiden,7.97E-04,7.23,19,4200,N11,
-S7,Alphen aan de Rijn,1.79E-04,5.33,20,4200,N11,
-S7,Woerden,4.10E-04,3.84,21,8200,A12,
-Woerden,Utrecht,2.97E-04,8.83,22,8200,A12,
-Utrecht,Amersfoort,4.50E-04,9.86,23,6200,A28,
-Amersfoort,S10,2.76E-05,1.32,24,8200,A28,
-S10,Hilversum,1.28E-03,7.35,25,4300,A1,
-Utrecht,Hilversum,1.08E-04,6.83,26,8200,A27,
-Utrecht,S6,6.64E-04,9.75,27,10250,A2,
-Leiden,S2,9.10E-04,7.21,28,6200,A4,
-S2,Schiphol,1.58E-04,5.40,29,10250,A4,
-Alphen aan de Rijn,S2,3.96E-04,5.40,42,6200,N207,
-Schiphol,S6,3.86E-04,6.95,30,6200,A9,
-Amsterdam,S6,1.87E-04,2.06,31,8200,A2,
-Schiphol,S3,6.53E-04,5.47,32,6200,A9,
-Schiphol,Amsterdam,8.87E-04,2.12,33,6200,A4,
-S3,Haarlem,1.97E-04,3.36,34,3881.8248,N200,
-Haarlem,S4,2.44E-04,5.82,35,4300,A9,
-S4,Zaanstad,2.93E-03,1.40,36,1900,N246,
-Zaanstad,S5,2.39E-03,-1.04,37,1900,N246,
-S5,Amsterdam,9.05E-04,3.25,38,4300,A8,
-Amsterdam,S9,2.79E-04,5.73,39,10250,A1,
-S9,Almere,9.09E-05,6.80,40,7924.686,A6,
-S9,Hilversum,3.84E-04,6.08,41,8200,A1,
-S11,Spijkenisse,2.81E-04,2.73,1,6200,A15,
-S1,S11,3.62E-04,2.39,2,8200,A4,
-S1,Vlaardingen,3.64E-04,0.20,3,4300,A20,
-Delft,S1,5.75E-04,2.40,4,6200,A4,
-Rotterdam,S1,4.82E-04,4.51,5,6200,A20,
-Delft,Rotterdam,7.57E-04,1.63,6,6300,A13,
-Gouda,Rotterdam,5.63E-03,-4.74,7,4300,A20,
-Rotterdam,Dordrecht,8.88E-04,9.30,8,6200,A15,
-Utrecht,Dordrecht,2.25E-03,6.22,9,4300,A15,
-Utrecht,S8,1.30E-02,-10.12,10,4300,A27,
-Den Haag,Delft,8.19E-04,3.88,11,8200,A4,
-Den Haag,Delft,8.64E-04,1.60,12,6200,A13,
-Zoetermeer,Den Haag,2.26E-03,7.58,13,6200,A12,
-Leiden,Den Haag,8.81E-04,5.74,14,6200,A4,
-Leiden,Zoetermeer,5.12E-03,-1.95,15,1900,N206,
-Zoetermeer,Gouda,8.40E-04,2.92,16,6200,A12,
-S7,Gouda,4.04E-04,2.90,17,8200,A12,
-Gouda,Alphen aan de Rijn,3.80E-03,2.48,18,1900,N207,
-Leiden,Alphen aan de Rijn,7.97E-04,7.23,19,4200,N11,
-Alphen aan de Rijn,S7,1.79E-04,5.33,20,4200,N11,
-Woerden,S7,4.10E-04,3.84,21,8200,A12,
-Utrecht,Woerden,2.97E-04,8.83,22,8200,A12,
-Amersfoort,Utrecht,4.50E-04,9.86,23,6200,A28,
-S10,Amersfoort,2.76E-05,1.32,24,8200,A28,
-Hilversum,S10,1.28E-03,7.35,25,4300,A1,
-Hilversum,Utrecht,1.08E-04,6.83,26,8200,A27,
-S6,Utrecht,6.64E-04,9.75,27,10250,A2,
-S2,Leiden,9.10E-04,7.21,28,6200,A4,
-Schiphol,S2,1.58E-04,5.40,29,10250,A4,
-S2,Alphen aan de Rijn,3.96E-04,5.40,42,6200,N207,
-S6,Schiphol,3.86E-04,6.95,30,6200,A9,
-S6,Amsterdam,1.87E-04,2.06,31,8200,A2,
-S3,Schiphol,6.53E-04,5.47,32,6200,A9,
-Amsterdam,Schiphol,8.87E-04,2.12,33,6200,A4,
-Haarlem,S3,1.97E-04,3.36,34,3881.8248,N200,
-S4,Haarlem,2.44E-04,5.82,35,4300,A9,
-Zaanstad,S4,2.93E-03,1.40,36,1900,N246,
-S5,Zaanstad,2.39E-03,-1.04,37,1900,N246,
-Amsterdam,S5,9.05E-04,3.25,38,4300,A8,
-S9,Amsterdam,2.79E-04,5.73,39,10250,A1,
-Almere,S9,9.09E-05,6.80,40,7924.686,A6,
-Hilversum,S9,3.84E-04,6.08,41,8200,A1,
+From,To,Slope,Y_Intercept,Edge_number,Traffic_Flow_Rush_Hour,Leg
+Spijkenisse,S11,2.81E-04,2.73,1,6200,A15
+S11,S1,3.62E-04,2.39,2,8200,A4
+Vlaardingen,S1,3.64E-04,0.20,3,4300,A20
+S1,Delft,5.75E-04,2.40,4,6200,A4
+S1,Rotterdam,4.82E-04,4.51,5,6200,A20
+Rotterdam,Delft,7.57E-04,1.63,6,6300,A13
+Rotterdam,Gouda,5.63E-03,-4.74,7,4300,A20
+Dordrecht,Rotterdam,8.88E-04,9.30,8,6200,A15
+Dordrecht,Utrecht,2.25E-03,6.22,9,4300,A15
+S8,Utrecht,1.30E-02,-10.12,10,4300,A27
+Delft,Den Haag,8.19E-04,3.88,11,8200,A4
+Delft,Den Haag,8.64E-04,1.60,12,6200,A13
+Den Haag,Zoetermeer,2.26E-03,7.58,13,6200,A12
+Den Haag,Leiden,8.81E-04,5.74,14,6200,A4
+Zoetermeer,Leiden,5.12E-03,-1.95,15,1900,N206
+Gouda,Zoetermeer,8.40E-04,2.92,16,6200,A12
+Gouda,S7,4.04E-04,2.90,17,8200,A12
+Alphen aan de Rijn,Gouda,3.80E-03,2.48,18,1900,N207
+Alphen aan de Rijn,Leiden,7.97E-04,7.23,19,4200,N11
+S7,Alphen aan de Rijn,1.79E-04,5.33,20,4200,N11
+S7,Woerden,4.10E-04,3.84,21,8200,A12
+Woerden,Utrecht,2.97E-04,8.83,22,8200,A12
+Utrecht,Amersfoort,4.50E-04,9.86,23,6200,A28
+Amersfoort,S10,2.76E-05,1.32,24,8200,A28
+S10,Hilversum,1.28E-03,7.35,25,4300,A1
+Utrecht,Hilversum,1.08E-04,6.83,26,8200,A27
+Utrecht,S6,6.64E-04,9.75,27,10250,A2
+Leiden,S2,9.10E-04,7.21,28,6200,A4
+S2,Schiphol,1.58E-04,5.40,29,10250,A4
+Alphen aan de Rijn,S2,3.96E-04,5.40,42,6200,N207
+Schiphol,S6,3.86E-04,6.95,30,6200,A9
+Amsterdam,S6,1.87E-04,2.06,31,8200,A2
+Schiphol,S3,6.53E-04,5.47,32,6200,A9
+Schiphol,Amsterdam,8.87E-04,2.12,33,6200,A4
+S3,Haarlem,1.97E-04,3.36,34,3881.8248,N200
+Haarlem,S4,2.44E-04,5.82,35,4300,A9
+S4,Zaanstad,2.93E-03,1.40,36,1900,N246
+Zaanstad,S5,2.39E-03,-1.04,37,1900,N246
+S5,Amsterdam,9.05E-04,3.25,38,4300,A8
+Amsterdam,S9,2.79E-04,5.73,39,10250,A1
+S9,Almere,9.09E-05,6.80,40,7924.686,A6
+S9,Hilversum,3.84E-04,6.08,41,8200,A1
+S11,Spijkenisse,2.81E-04,2.73,1,6200,A15
+S1,S11,3.62E-04,2.39,2,8200,A4
+S1,Vlaardingen,3.64E-04,0.20,3,4300,A20
+Delft,S1,5.75E-04,2.40,4,6200,A4
+Rotterdam,S1,4.82E-04,4.51,5,6200,A20
+Delft,Rotterdam,7.57E-04,1.63,6,6300,A13
+Gouda,Rotterdam,5.63E-03,-4.74,7,4300,A20
+Rotterdam,Dordrecht,8.88E-04,9.30,8,6200,A15
+Utrecht,Dordrecht,2.25E-03,6.22,9,4300,A15
+Utrecht,S8,1.30E-02,-10.12,10,4300,A27
+Den Haag,Delft,8.19E-04,3.88,11,8200,A4
+Den Haag,Delft,8.64E-04,1.60,12,6200,A13
+Zoetermeer,Den Haag,2.26E-03,7.58,13,6200,A12
+Leiden,Den Haag,8.81E-04,5.74,14,6200,A4
+Leiden,Zoetermeer,5.12E-03,-1.95,15,1900,N206
+Zoetermeer,Gouda,8.40E-04,2.92,16,6200,A12
+S7,Gouda,4.04E-04,2.90,17,8200,A12
+Gouda,Alphen aan de Rijn,3.80E-03,2.48,18,1900,N207
+Leiden,Alphen aan de Rijn,7.97E-04,7.23,19,4200,N11
+Alphen aan de Rijn,S7,1.79E-04,5.33,20,4200,N11
+Woerden,S7,4.10E-04,3.84,21,8200,A12
+Utrecht,Woerden,2.97E-04,8.83,22,8200,A12
+Amersfoort,Utrecht,4.50E-04,9.86,23,6200,A28
+S10,Amersfoort,2.76E-05,1.32,24,8200,A28
+Hilversum,S10,1.28E-03,7.35,25,4300,A1
+Hilversum,Utrecht,1.08E-04,6.83,26,8200,A27
+S6,Utrecht,6.64E-04,9.75,27,10250,A2
+S2,Leiden,9.10E-04,7.21,28,6200,A4
+Schiphol,S2,1.58E-04,5.40,29,10250,A4
+S2,Alphen aan de Rijn,3.96E-04,5.40,42,6200,N207
+S6,Schiphol,3.86E-04,6.95,30,6200,A9
+S6,Amsterdam,1.87E-04,2.06,31,8200,A2
+S3,Schiphol,6.53E-04,5.47,32,6200,A9
+Amsterdam,Schiphol,8.87E-04,2.12,33,6200,A4
+Haarlem,S3,1.97E-04,3.36,34,3881.8248,N200
+S4,Haarlem,2.44E-04,5.82,35,4300,A9
+Zaanstad,S4,2.93E-03,1.40,36,1900,N246
+S5,Zaanstad,2.39E-03,-1.04,37,1900,N246
+Amsterdam,S5,9.05E-04,3.25,38,4300,A8
+S9,Amsterdam,2.79E-04,5.73,39,10250,A1
+Almere,S9,9.09E-05,6.80,40,7924.686,A6
+Hilversum,S9,3.84E-04,6.08,41,8200,A1
