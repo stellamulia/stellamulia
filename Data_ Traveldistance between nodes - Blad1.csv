@@ -3,7 +3,7 @@ Zaanstad,Amsterdam,29.1,35,26.9,29.5
 Zaanstad,Haarlem,22.1,31,22.1,28.5
 Schiphol,Leiden,27.1,32,27.1,44
 Leiden,Den Haag,21.4,36,21.4,44
-Leiden,Zoetemeer,13.3,29,13.3,30
+Leiden,Zoetermeer,13.3,29,13.3,30
 Den Haag,Delft,12,33,12,38.5
 Delft,Rotterdam,15.8,28,15.8,36
 Rotterdam,Spijkenisse,20.8,24,23.8,46.5
@@ -25,10 +25,10 @@ Woerden,Gouda,22.8,32,22.8,33
 Woerden,Alphen aan de Rijn,21.9,24,21.9,24
 Hilversum,Utrecht,20.2,38,20.2,41.5
 Gouda,Rotterdam,26.4,50,24,47.5
-Gouda,Zoetemeer,21.1,31,21.1,31
+Gouda,Zoetermeer,21.1,31,21.1,31
 Haarlem,Schiphol,19.1,30,19.1,26.5
-Zoetemeer,Den Haag,16.4,22,16.2,35
-Zoetemeer,Leiden,15.3,31,15.3,33.5
+Zoetermeer,Den Haag,16.4,22,16.2,35
+Zoetermeer,Leiden,15.3,31,15.3,33.5
 Vlaardingen,Rotterdam,13.1,23,12.1,29
 Almere,Hilversum,28.4,42.5,28.4,35.5
 Amsterdam,Schiphol,22.8,39,22.5,47.5
@@ -37,7 +37,7 @@ Amsterdam,Zaanstad,29.1,71,29.1,45
 Haarlem,Zaanstad,23.3,32,23.6,32
 Leiden,Schiphol,26.9,32,26.9,28.5
 Den Haag,Leiden,24,44,20.5,52.5
-Zoetemeer,Leiden,15.3,36,15.3,33.5
+Zoetermeer,Leiden,15.3,36,15.3,33.5
 Delft,Den Haag,11.1,32.5,11.1,36
 Rotterdam,Delft,16.6,27.5,16.6,33.5
 Spijkenisse,Rotterdam,23.2,34.5,23.2,37
@@ -59,10 +59,10 @@ Gouda,Woerden,22.4,32,22.4,31
 Alphen aan de Rijn,Woerden,22.4,33.5,22.4,28.5
 Utrecht,Hilversum,20,37,20,40.5
 Rotterdam,Gouda,23.7,39,23.7,52.5
-Zoetemeer,Gouda,20.6,28.5,20.6,32
+Zoetermeer,Gouda,20.6,28.5,20.6,32
 Schiphol,Haarlem,20.7,26.5,20.7,32.5
-Den Haag,Zoetemeer,16.4,23,16.1,36
-Leiden,Zoetemeer,13.3,29,13.3,30
+Den Haag,Zoetermeer,16.4,23,16.1,36
+Leiden,Zoetermeer,13.3,29,13.3,30
 Rotterdam,Vlaardingen,13.6,25.5,14.4,29
 Hilversum,Almere,29.9,36.5,28.7,40
 Schiphol,Amsterdam,22.1,36,22.1,40.5
